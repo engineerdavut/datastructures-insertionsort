@@ -31,17 +31,17 @@ Baslangic-> [22,27,16,2,18,6]
     
 4.aşama->   [2,6,16,18,22,27]
 
-2.) Big O n(n+1)/2 ->Big O(n^2)
+2.) Big O n(n+1)/2 ->Big O(n^2) n=6 Big O (36)
 
 3.)Time Complexity: 
 
-Average case: Aradığımız sayının ortada olması, Sıralama yapılacak dizinin orta karışıklıkta olması. Big O(n^2)
+Average case: Aradığımız sayının ortada olması, Sıralama yapılacak dizinin orta karışıklıkta olması. Big O(n^2) =Big O(36)
 
-Worst case: Aradığımız sayının sonda olması, Sıralama yapılacak dizinin karışık olması. Big O(n^2)
+Worst case: Aradığımız sayının sonda olması, Sıralama yapılacak dizinin karışık olması. Big O(n^2) =Big O(36)
 
-Best case: Aradığımız sayının dizinin en başında olması. Ya da elimize sıralı liste verilmesi. Big O(n)
+Best case: Aradığımız sayının dizinin en başında olması. Ya da elimize sıralı liste verilmesi. Big O(n) =Big O(6)
 
-4.)18 sayısı 4. aşamada düzenlendi. n-> n-1-> n-2-> n-3 . n-3 duruma bakıldı.
+4.)18 sayısı 4. aşamada düzenlendi. n-> n-1-> n-2-> n-3 . n-3 duruma bakıldı. n=6 6-3=3.
 
 
 1.) 
@@ -63,14 +63,14 @@ Baslangic -> [7,3,5,8,2,9,4,15,6]
     
 8. aşama  -> [2,3,4,5,6,7,8,9,15]
 
-2.) Big O n(n+1)/2 -> Big O(n^2)
+2.) Big O n(n+1)/2 -> Big O(n^2) n=9 Big O(81)
 
 3.)Time Complexity: 
 
-Average case: Aradığımız sayının ortada olması, Sıralama yapılacak dizinin orta karışıklıkta olması. Big O(n^2)
+Average case: Aradığımız sayının ortada olması, Sıralama yapılacak dizinin orta karışıklıkta olması. Big O(n^2) =Big O(81)
 
-Worst case: Aradığımız sayının sonda olması, Sıralama yapılacak dizinin karışık olması. Big O(n^2)
+Worst case: Aradığımız sayının sonda olması, Sıralama yapılacak dizinin karışık olması. Big O(n^2) =Big O(81)
 
-Best case: Aradığımız sayının dizinin en başında olması. Ya da elimize sıralı liste verilmesi. Big O(n)
+Best case: Aradığımız sayının dizinin en başında olması. Ya da elimize sıralı liste verilmesi. Big O(n) =Big O(9)
 
 4.)18 sayısı bu dizide yok.
